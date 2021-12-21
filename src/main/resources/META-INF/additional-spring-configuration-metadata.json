@@ -1,0 +1,38 @@
+{
+  "properties": [
+    {
+      "name": "spring.security.oauth2.resource.preferTokenInfo",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.resource.preferTokenInfo."
+    },
+    {
+      "name": "spring.security.oauth2.resource.userInfoUri",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.resource.userInfoUri."
+    },
+    {
+      "name": "spring.security.oauth2.resource.preferTokenInfo",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.resource.preferTokenInfo."
+    },
+    {
+      "name": "spring.security.oauth2.resource.userInfoUri",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.resource.userInfoUri."
+    },
+    {
+      "name": "spring.security.oauth2.client.userAuthorizationUri",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.client.userAuthorizationUri."
+    },
+    {
+      "name": "spring.security.oauth2.client.accessTokenUri",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.client.accessTokenUri."
+    },
+    {
+      "name": "spring.security.oauth2.client.scope",
+      "type": "java.lang.String",
+      "description": "Description for spring.security.oauth2.client.scope."
+    }
+  ] }
